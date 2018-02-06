@@ -1,8 +1,10 @@
 [![Build Status](https://travis-ci.org/cbrown1/tdt2.svg?branch=master)](https://travis-ci.org/cbrown1/tdt2)
 
-# spyral
+# tdt2
 
 A Python module to access Tucker Davis Technologies' System II hardware
+
+Currently access is provided for the PA4 and WG1 tdt modules. But these can be used as a template, along with the tdt2 manual in the src directory, to access others.
 
 ## Installing
 
